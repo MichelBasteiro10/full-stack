@@ -28,7 +28,7 @@ main {
     }
 }
 
-aside {
+.father {
     background-color: var(--surface-secondary);
     padding: 4rem;
 
